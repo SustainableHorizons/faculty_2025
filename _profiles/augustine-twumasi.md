@@ -73,4 +73,5 @@ lightning_talk_title: Physics-Guided Machine Learning for Phase-Field Stability 
   Microstructure Control
 keywords: Phase-Field Modeling Additive Manufacturing Machine Learning Deep Reinforcement
   Learning Path Planning
+student_of_faculty: Patrick Tabiri
 ---

@@ -147,4 +147,5 @@ lightning_talk_title: Data-Driven Techniques for Machine Learning, Data Science 
 keywords: Optimal control; reinforcement learning; PINN; deep Pontryagin principle;
   Gaussian process surrogates; non-convex optimization; Frank-Wolfe gradient descent;
   cluster analysis; nonparametric regression
+student_of_faculty: Samit Ghosh
 ---

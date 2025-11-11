@@ -107,4 +107,5 @@ student_merit: The student I plan to include is a master’s candidate in Comput
   engagement.
 lightning_talk_title: 'LLM4IR: Large Language Models for Compiler IR Optimization'
 keywords: Large Language Model, LLVM IR, MLIR, HPC, Compiler Optimization
+student_of_faculty: Jianfeng Zhu
 ---

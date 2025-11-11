@@ -133,4 +133,5 @@ student_merit: In the past, I have mentored nearly nine SRP students at Lawrence
 lightning_talk_title: Scalable HPC Framework for Containerized AI-Powered Scientific
   Discovery
 keywords: HPC; Scientific workloads; AI;Containerization
+student_of_faculty: Saikarthik Navuluru
 ---

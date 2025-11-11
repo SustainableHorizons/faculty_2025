@@ -103,4 +103,5 @@ lightning_talk_title: Adoption of Artificial Intelligence in Empowering Undergra
   Engineering Education
 keywords: Engineering Education; Artificial Intelligence; Pedagogy; instructional
   development; faculty development; classroom technology
+student_of_faculty: Dario Ajdini
 ---

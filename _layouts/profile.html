@@ -122,6 +122,13 @@ layout: default
     <p>{{ page.keywords }}</p>
   </div>
   {% endif %}
+  
+  {% if page.student_of_faculty %}
+  <div class="profile-section">
+    <h3>Student of Faculty</h3>
+    <p>{{ page.student_of_faculty }}</p>
+  </div>
+  {% endif %}
 
   <div class="profile-content">
     {{ content }}

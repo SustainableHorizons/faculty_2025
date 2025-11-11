@@ -99,4 +99,5 @@ lightning_talk_title: Transforming STEM Learning and Society Through Technology
 keywords: STEM learning; Technology; Engineering education; AI in education; Instructional
   design; Online and eLearning; Computing; Societal impact; Interdisciplinary; Mixed-methods
   research;
+student_of_faculty: April Burton
 ---

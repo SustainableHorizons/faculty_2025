@@ -205,4 +205,5 @@ lightning_talk_title: 'Scaling the Complex: HPC-Driven Graph AI for NextGen Scie
   Computing'
 keywords: HPC; Multi-GPU; Parallel Algorithms; Scalable AI; Generative AI / LLMs;
   Large Complex Network Modeling; Urban Systems; Geospatial AI; Health Informatics;
+student_of_faculty: David Reyes
 ---

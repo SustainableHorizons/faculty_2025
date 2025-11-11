@@ -80,4 +80,5 @@ lightning_talk_title: Neural Network surrogate modeling for Atmospheric Cloud Mi
 keywords: Neural network surrogate modeling Atmospheric cloud microphysics Surrogate
   model development HPC optimization Model training and evaluation Reduced computational
   cost
+student_of_faculty: Alexios Georvasilis
 ---

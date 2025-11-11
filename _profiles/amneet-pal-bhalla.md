@@ -79,4 +79,5 @@ lightning_talk_title: A Multiphysics Framework for Modeling Metal Additive Manuf
   Processes
 keywords: Computational Fluid Dynamics; Multiphase Flows; Numerical Methods; Partial
   Differential Equations
+student_of_faculty: Yavkreet Swami
 ---

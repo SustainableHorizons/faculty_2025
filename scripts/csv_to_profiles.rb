@@ -76,7 +76,8 @@ def csv_to_profiles
       'supervising_plan' => row['Supervising Students: Faculty are responsible for supervising their student teams. Describe your plan for working with your student team.'],
       'student_merit' => row['Student Merit: Describe any past experience you have working with the each student on your team, and any other factors, such as their preparedness and/or aptitude, in your decision to include these students on your team.'],
       'lightning_talk_title' => row['Lightning Talk Title (Maximum 10 words)'],
-      'keywords' => row['Keywords (Maximum 20 words)']
+      'keywords' => row['Keywords (Maximum 20 words)'],
+      'student_of_faculty' => row['Student of Faculty']
     }
     
     # Remove empty fields

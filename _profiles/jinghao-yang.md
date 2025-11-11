@@ -129,4 +129,5 @@ lightning_talk_title: 'Towards Smart Manufacturing: Real-Time Intelligent Sensin
   in Additive Manufacturing'
 keywords: Smart Manufacturing, AI, Digital Twin, Computer Vision, Intelligent Autonomous
   Sensing System
+student_of_faculty: Martha Asare
 ---

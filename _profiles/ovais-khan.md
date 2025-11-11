@@ -77,4 +77,5 @@ lightning_talk_title: Research Activities in Computational Modeling of Fluid Dyn
   Problems
 keywords: High-resolution numerical schemes Shock/boundary layer interaction Magneto-hydrodynamics
   Machine Learning Model for Nusselt Number
+student_of_faculty: Kearsten White
 ---

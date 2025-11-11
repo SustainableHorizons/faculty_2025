@@ -76,4 +76,5 @@ student_merit: I selected my students team based on their demonstrated academic 
 lightning_talk_title: 'AI Driven Multimodal Research: From Vision to Healthcare'
 keywords: Artificial Intelligence, High-Performance Computing, Machine Learning, Graph
   Neural Networks, Data Science, Biomedical Informatics, Scientific Simulations
+student_of_faculty: Samia Hield
 ---

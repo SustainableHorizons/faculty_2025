@@ -109,4 +109,5 @@ student_merit: Faiza Ola is a Presidential Scholar (4.0 GPA) majoring in Compute
 lightning_talk_title: Hybrid Deep Learning for Time Series Forecasting and AI Applications
 keywords: Deep Learning; Machine Learning; LSTM; Transformer; RNN; Data Science; Model
   Robustness; Sequence Modeling; Applied AI; Financial Prediction; Health Data Analytics
+student_of_faculty: Chance Bradford
 ---

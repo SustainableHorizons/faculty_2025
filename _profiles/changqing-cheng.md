@@ -75,4 +75,5 @@ student_merit: Olivia Zhou is an undergraduate student majoring in mathematics a
 lightning_talk_title: Physics-informed Generative Design for Infrastructure Network
   Resilience
 keywords: Network resilience; Graph learning; Inverse learning; generative design
+student_of_faculty: Olivia Zhou
 ---

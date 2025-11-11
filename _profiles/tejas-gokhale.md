@@ -114,4 +114,5 @@ lightning_talk_title: Multimodal Active Data Pursuit for Learning, Reasoning, an
   Retrieval
 keywords: video understanding; multimodal retrieval; multimodal claim extraction;
   machine learning; computer vision; natural language processing; robustness; compositionality
+student_of_faculty: Sourajit Saha
 ---

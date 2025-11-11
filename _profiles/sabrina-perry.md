@@ -113,4 +113,5 @@ student_merit: 'I have selected Derrick Goralewski, an undergraduate student cur
   career goals.'
 lightning_talk_title: 'Building Trustworthy AI: My Journey in Cybersecurity'
 keywords: Trustworthy AI, Cybersecurity, Data Poisoning, HPC, Watermarking
+student_of_faculty: Derrick Goralewski
 ---

@@ -67,4 +67,5 @@ student_merit: I have worked with this selected students pretty closely during m
   in our analysis for the existing data, or ignited future research direction.
 lightning_talk_title: Principles of Educational GenAI Tool Creation
 keywords: educational research; engineering design; design principles; GenAI
+student_of_faculty: Yunmeng Han
 ---

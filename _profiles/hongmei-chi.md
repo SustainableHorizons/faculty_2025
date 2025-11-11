@@ -67,4 +67,5 @@ student_merit: I mentored 20 graduate students and more than 30 undergraduates. 
 lightning_talk_title: XAI for Secure Interpretable Analysis of Genomic Data
 keywords: XAI; Precision Medicine; Genomic Data, privacy-preserving model, federated
   machine learning, scRNA-seq, data privacy, patients’ data privacy
+student_of_faculty: Terrelle Thomas
 ---

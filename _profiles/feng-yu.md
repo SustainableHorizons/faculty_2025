@@ -91,4 +91,5 @@ student_merit: Mr. MD Saifur Rahman Mazumder joined my research team in Septembe
 lightning_talk_title: Robust and High-Dimensional Statistical Learning
 keywords: high-dimensional statistics; robust statistics; non-convex optimization;
   Secure machine learning
+student_of_faculty: MD Saifur Rahman Mazumder
 ---
