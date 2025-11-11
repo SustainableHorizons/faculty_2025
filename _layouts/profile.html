@@ -31,12 +31,6 @@ layout: default
       {% endif %}
       
       <div class="profile-links">
-        {% if page.email %}
-          <a href="mailto:{{ page.email }}" class="profile-link email">
-            📧 Email
-          </a>
-        {% endif %}
-        
         {% if page.linkedin and page.linkedin != "" %}
           <a href="{{ page.linkedin }}" class="profile-link linkedin" target="_blank">
             💼 LinkedIn

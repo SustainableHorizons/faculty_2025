@@ -30,9 +30,6 @@ title: SHI Collaboration Profiles
       {% endif %}
       
       <div class="profile-card-links">
-        {% if profile.email %}
-          <a href="mailto:{{ profile.email }}" title="Email {{ profile.name }}">📧</a>
-        {% endif %}
         {% if profile.linkedin and profile.linkedin != "" %}
           <a href="{{ profile.linkedin }}" target="_blank" title="LinkedIn Profile">💼</a>
         {% endif %}
