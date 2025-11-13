@@ -123,10 +123,14 @@ layout: default
   </div>
   {% endif %}
   
-  {% if page.student_of_faculty %}
+  {% if page.students_list %}
   <div class="profile-section">
-    <h3>Student of Faculty</h3>
-    <p>{{ page.student_of_faculty }}</p>
+    <h3>Student(s) of Faculty</h3>
+    <p>
+      {% for student in page.students_list %}
+        <a href="{{ student.url }}" target="_blank" class="student-link">{{ student.name }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
   </div>
   {% endif %}
 

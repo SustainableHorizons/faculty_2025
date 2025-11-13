@@ -202,5 +202,10 @@ lightning_talk_title: Building Software and Artificial Intelligence Applications
   Solving Scientific Problems
 keywords: Artificial Intelligence; Machine Learning; Scientific Computing; HPC Kernels;
   Predictive Modeling; Cybersecurity & Access Control; Software Engineering
-student_of_faculty: Alexis Huante
+student_of_faculty: Alexis Huante, Luis Vela
+students_list:
+- name: Alexis Huante
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/alexishuante/
+- name: Luis Vela
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/luisvela/
 ---

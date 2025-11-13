@@ -21,11 +21,11 @@ degrees_earned: Ph.D., Industrial Engineering and Management, Oklahoma State Uni
 research_interests: 'Statistical learning, simulation and optimal design for process
   monitoring, quality control and performance optimization of complex systems, with
   special interests in nonlinear dynamics and the resulting chaotic patterns, recurrence
-  and self-similarity behaviors • Power System: nonlinear stability analysis, large-scale
-  network modeling • Manufacturing: optimal design, uncertainty quantification, sensing
-  data analytics for change / anomaly detection, quality assurance in manufacturing
-  of Electronic Equipment • Healthcare: data fusion, time series analysis, epidemic
-  modeling'
+  and self-similarity behaviors<br><br>• Power System: nonlinear stability analysis,
+  large-scale network modeling<br><br>• Manufacturing: optimal design, uncertainty
+  quantification, sensing data analytics for change / anomaly detection, quality assurance
+  in manufacturing of Electronic Equipment<br><br>• Healthcare: data fusion, time
+  series analysis, epidemic modeling'
 topical_areas: Health Sciences; Infrastructure and Instrumentation; Statistics and
   Probability
 research_synergy: My research interests are fundamentally aligned with the mission
@@ -76,4 +76,7 @@ lightning_talk_title: Physics-informed Generative Design for Infrastructure Netw
   Resilience
 keywords: Network resilience; Graph learning; Inverse learning; generative design
 student_of_faculty: Olivia Zhou
+students_list:
+- name: Olivia Zhou
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/oliviazhou/
 ---

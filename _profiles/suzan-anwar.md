@@ -76,5 +76,10 @@ student_merit: I selected my students team based on their demonstrated academic 
 lightning_talk_title: 'AI Driven Multimodal Research: From Vision to Healthcare'
 keywords: Artificial Intelligence, High-Performance Computing, Machine Learning, Graph
   Neural Networks, Data Science, Biomedical Informatics, Scientific Simulations
-student_of_faculty: Samia Hield
+student_of_faculty: Samia Hield, Percia Burrows
+students_list:
+- name: Samia Hield
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/samiahield/
+- name: Percia Burrows
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/perciaburrows/
 ---

@@ -100,4 +100,7 @@ keywords: STEM learning; Technology; Engineering education; AI in education; Ins
   design; Online and eLearning; Computing; Societal impact; Interdisciplinary; Mixed-methods
   research;
 student_of_faculty: April Burton
+students_list:
+- name: April Burton
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/aprilburton/
 ---

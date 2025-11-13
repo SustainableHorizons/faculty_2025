@@ -205,5 +205,10 @@ lightning_talk_title: 'Scaling the Complex: HPC-Driven Graph AI for NextGen Scie
   Computing'
 keywords: HPC; Multi-GPU; Parallel Algorithms; Scalable AI; Generative AI / LLMs;
   Large Complex Network Modeling; Urban Systems; Geospatial AI; Health Informatics;
-student_of_faculty: David Reyes
+student_of_faculty: David Reyes, Evan Browne
+students_list:
+- name: David Reyes
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/davidreyes/
+- name: Evan Browne
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/evanbrowne/
 ---

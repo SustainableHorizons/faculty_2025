@@ -101,5 +101,10 @@ lightning_talk_title: Data-Driven Scientific Discovery using Large Language Mode
 keywords: Scientific Computing; Machine Learning; Scientific Machine Learning; Differentiable
   Programming; High-Performance Computing; Computational Fluid Dynamics; Fluid Mechanics;
   Heat Transfer
-student_of_faculty: Avinash Potluri
+student_of_faculty: Avinash Potluri, Gopishwar Palepu
+students_list:
+- name: Avinash Potluri
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/avinashpotluri/
+- name: Gopishwar Palepu
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/gopishwarpalepu/
 ---

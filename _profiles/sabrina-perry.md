@@ -114,4 +114,7 @@ student_merit: 'I have selected Derrick Goralewski, an undergraduate student cur
 lightning_talk_title: 'Building Trustworthy AI: My Journey in Cybersecurity'
 keywords: Trustworthy AI, Cybersecurity, Data Poisoning, HPC, Watermarking
 student_of_faculty: Derrick Goralewski
+students_list:
+- name: Derrick Goralewski
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/derrickgoralewski/
 ---

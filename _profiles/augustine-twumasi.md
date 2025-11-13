@@ -74,4 +74,7 @@ lightning_talk_title: Physics-Guided Machine Learning for Phase-Field Stability 
 keywords: Phase-Field Modeling Additive Manufacturing Machine Learning Deep Reinforcement
   Learning Path Planning
 student_of_faculty: Patrick Tabiri
+students_list:
+- name: Patrick Tabiri
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/patricktabiri/
 ---

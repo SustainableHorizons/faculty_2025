@@ -80,4 +80,7 @@ lightning_talk_title: A Multiphysics Framework for Modeling Metal Additive Manuf
 keywords: Computational Fluid Dynamics; Multiphase Flows; Numerical Methods; Partial
   Differential Equations
 student_of_faculty: Yavkreet Swami
+students_list:
+- name: Yavkreet Swami
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/yavkreetswami/
 ---

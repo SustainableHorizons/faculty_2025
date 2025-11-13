@@ -129,5 +129,10 @@ lightning_talk_title: 'Towards Smart Manufacturing: Real-Time Intelligent Sensin
   in Additive Manufacturing'
 keywords: Smart Manufacturing, AI, Digital Twin, Computer Vision, Intelligent Autonomous
   Sensing System
-student_of_faculty: Martha Asare
+student_of_faculty: Martha Asare, Zhugang Liu
+students_list:
+- name: Martha Asare
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/marthaasare/
+- name: Zhugang Liu
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/zhugangliu/
 ---

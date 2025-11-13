@@ -67,5 +67,10 @@ student_merit: I mentored 20 graduate students and more than 30 undergraduates. 
 lightning_talk_title: XAI for Secure Interpretable Analysis of Genomic Data
 keywords: XAI; Precision Medicine; Genomic Data, privacy-preserving model, federated
   machine learning, scRNA-seq, data privacy, patients’ data privacy
-student_of_faculty: Terrelle Thomas
+student_of_faculty: Terelle Thomas, Judy Wang
+students_list:
+- name: Terelle Thomas
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/terellethomas/
+- name: Judy Wang
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/judywang/
 ---

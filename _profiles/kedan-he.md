@@ -187,5 +187,10 @@ lightning_talk_title: Drug-Drug Interaction Prediction Using Node2Vec Embeddings
 keywords: Polypharmacy; Drug-Drug Interactions (DDIs); Multi-Target Drug Design; Computational
   Pharmacology; AI/Machine Learning in Drug Discovery; Disease Module Networks; Precision
   Medicine
-student_of_faculty: Ashton Croteau
+student_of_faculty: Ashton Croteau,  Yesli Linares Lopez
+students_list:
+- name: Ashton Croteau
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/ashtoncroteau/
+- name: " Yesli Linares Lopez"
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/yesli-linares-lopez/
 ---

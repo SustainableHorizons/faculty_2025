@@ -68,4 +68,7 @@ student_merit: I have worked with this selected students pretty closely during m
 lightning_talk_title: Principles of Educational GenAI Tool Creation
 keywords: educational research; engineering design; design principles; GenAI
 student_of_faculty: Yunmeng Han
+students_list:
+- name: Yunmeng Han
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/yunmenghan/
 ---

@@ -86,5 +86,10 @@ keywords: 'QAI HPC Synergy =&gt; Energy/Data/Speed/Discovery 1. QAI^HPC Workflow
   2. Q&lt;=&gt;AI Duality =&gt; Discover Theory/Constraints/Model; 3. Q^GenerativeAI/Q^StableDiffusion;
   4. Q^BM/Q^AI/Q^ML; 5. Q^QuickProp/Q^GradientDecent; 6. QAI Solution/Training Hub:
   Space/Energy/Biomed/Eco/Logistic/Port/Transportation.'
-student_of_faculty: Yusra Ahsan
+student_of_faculty: Yusra Ahsan, Brandon Espinoza
+students_list:
+- name: Yusra Ahsan
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/yusraahsan/
+- name: Brandon Espinoza
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/brandonespinoza/
 ---

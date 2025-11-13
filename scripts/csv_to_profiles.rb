@@ -76,12 +76,52 @@ def csv_to_profiles
       'supervising_plan' => row['Supervising Students: Faculty are responsible for supervising their student teams. Describe your plan for working with your student team.'],
       'student_merit' => row['Student Merit: Describe any past experience you have working with the each student on your team, and any other factors, such as their preparedness and/or aptitude, in your decision to include these students on your team.'],
       'lightning_talk_title' => row['Lightning Talk Title (Maximum 10 words)'],
-      'keywords' => row['Keywords (Maximum 20 words)'],
-      'student_of_faculty' => row['Student of Faculty']
+      'keywords' => row['Keywords (Maximum 20 words)']
     }
     
-    # Remove empty fields
-    front_matter.reject! { |k, v| v.nil? || v.strip.empty? }
+    # Combine First Student and Second Student into student_of_faculty with links
+    first_student = row['First Student']
+    second_student = row['Second Student']
+    students = []
+    students << first_student if first_student && !first_student.strip.empty?
+    students << second_student if second_student && !second_student.strip.empty?
+    
+    unless students.empty?
+      # Create both the display text and an array of student data for linking
+      front_matter['student_of_faculty'] = students.join(', ')
+      
+      # Create an array of student objects with name and URL
+      students_with_links = students.map do |student|
+        # Special cases for students with non-standard slugs (3+ words)
+        special_slugs = {
+          'Teja Vishnu Vardhan Boddu' => 'teja-vishnu-vardhanboddu',
+          'Visheshwar Rao Sreekakulapu' => 'visheshwar-raosreekakulapu',
+          'MD Saifur Rahman Mazumder' => 'md-saifur-rahmanmazumder',
+          'Saikarthik Navuluru' => 'sai-karthiknavuluru',
+          'Yesli Linares Lopez' => 'yeslilinares-lopez',
+          'Luis Antonio Vela' => 'luis-antoniovela'
+        }
+        
+        if special_slugs[student]
+          # Use hardcoded slug for special cases
+          student_slug = special_slugs[student]
+        elsif student.split.length == 2
+          # For two-word names, remove spaces without adding hyphens
+          student_slug = student.downcase.gsub(/\s+/, '')
+        else
+          # For other cases, use standard slugify
+          student_slug = slugify(student)
+        end
+        {
+          'name' => student,
+          'url' => "https://kevinzhuang01.github.io/students_of_fac/profiles/#{student_slug}/"
+        }
+      end
+      front_matter['students_list'] = students_with_links
+    end
+    
+    # Remove empty fields (but keep arrays)
+    front_matter.reject! { |k, v| v.nil? || (v.is_a?(String) && v.strip.empty?) }
     
     # Create the profile page content
     content = "---\n"

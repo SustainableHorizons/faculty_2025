@@ -92,5 +92,10 @@ student_merit: I met both Haran and Teja recently through a research idea I adve
 lightning_talk_title: Robot Safe Navigation Techniques in Large Language Models
 keywords: numerical optimization; differential complementarity problems; large language
   models; control barrier functions; rigid body systems
-student_of_faculty: Haran Tzori
+student_of_faculty: Haran Tzori, Teja Vishnu Vardhan Boddu
+students_list:
+- name: Haran Tzori
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/harantzori/
+- name: Teja Vishnu Vardhan Boddu
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/teja-vishnu-vardhanboddu/
 ---

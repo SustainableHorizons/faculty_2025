@@ -92,4 +92,7 @@ lightning_talk_title: Robust and High-Dimensional Statistical Learning
 keywords: high-dimensional statistics; robust statistics; non-convex optimization;
   Secure machine learning
 student_of_faculty: MD Saifur Rahman Mazumder
+students_list:
+- name: MD Saifur Rahman Mazumder
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/md-saifur-rahmanmazumder/
 ---

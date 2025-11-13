@@ -114,5 +114,10 @@ lightning_talk_title: Multimodal Active Data Pursuit for Learning, Reasoning, an
   Retrieval
 keywords: video understanding; multimodal retrieval; multimodal claim extraction;
   machine learning; computer vision; natural language processing; robustness; compositionality
-student_of_faculty: Sourajit Saha
+student_of_faculty: Sourajit Saha, Naren Sivakumar
+students_list:
+- name: Sourajit Saha
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/sourajitsaha/
+- name: Naren Sivakumar
+  url: https://kevinzhuang01.github.io/students_of_fac/profiles/narensivakumar/
 ---
