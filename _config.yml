@@ -2,7 +2,7 @@
 title: SHI Collaboration Profiles
 description: Profile pages for Sustainable Horizons Institute SRP 25-26 Faculty Participants
 baseurl: "/faculty_2025"
-url: "https://kevinzhuang01.github.io"
+url: "https://SustainableHorizons.github.io"
 
 # GitHub Pages configuration
 remote_theme: pages-themes/primer@v0.6.0
